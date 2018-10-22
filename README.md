@@ -1,1 +1,1 @@
-# blog 文章在issc
+# blog文章在issues里可以查看
